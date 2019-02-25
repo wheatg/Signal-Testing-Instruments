@@ -1,6 +1,6 @@
-# Signal Testing Instruments
+# Signal Testing Instruments (Completed Feb. 2019)
 
-We created testing instruments to test characteristics of an input signal and send recent measurements to a master instrument over SPI, which would be displayed on a PC interface created with python.
+With a team of three, we created testing instruments to test characteristics of an input signal and send recent measurements to a master instrument over SPI, which would be displayed on a PC interface created with python.
 
 A full report can be seen by viewing the "PIC Based Test Instruments.pdf".
 

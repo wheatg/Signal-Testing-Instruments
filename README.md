@@ -1,4 +1,4 @@
-# Signal-Testing-Instruments
+# Signal Testing Instruments
 
 We created testing instruments to test characteristics of an input signal and send recent measurements to a master instrument over SPI, which would be displayed on a PC interface created with python.
 
